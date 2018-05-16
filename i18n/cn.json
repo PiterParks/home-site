@@ -1,0 +1,153 @@
+﻿{
+  "message": {
+    "home": "首页",
+    "solution": "解决方案",
+    "whitebook": "白皮书",
+    "superprobe": "超极探针",
+    "opendownload": "下载",
+    "news": "新闻",
+    "community": "社区",
+    "contactus": "联系我们"
+  },
+  "topCont":{
+    "title":"ifoodschain",
+    "sub-title":"开放开源的食品区块链生态平台",
+    "des":"开放开源的食品区块链生态平台，致力于成为全球食品领域区块链标准制定者"
+  },
+  "aubouChain": {
+    "title": "关于Ifoods chain",
+    "content": "Ifoods chain是全球首个关注食品供应及安全的区块链生态平台.",
+    "content1": "本项目基于区块链底层技术，结合MEMS高精度传感器为核心器件的智能硬件及大数据分析技术，应用于全球食品生态建设，致力于为食品全环节、食品全领域、食品全行业、食品全区域提供解决方案。",
+    "segment": "食品全环节",
+    "field": "食品全领域",
+    "industry": "食品全行业",
+    "area": "食品全区域",
+    "linkBtn":"查看白皮书"
+  },
+  "vision": {
+    "leftTitle": "Ifoods chain 愿景",
+    "leftContent": "我们希望利用区块链及衍生的技术来促进食品的供应、增强食品的安全、保障消费者的知情权、提升食品行业的生产力。",
+    "centerTitle": "Ifoods chain 全球使命",
+    "centerContent": "在全球范围内构建完善的食品生态环境。",
+    "rightTitle": "Ifoods chain 价值观",
+    "rightContent": "我们认为区块链不可篡改数据的记录数据方式，会推动人类文明的进步，食品及其他相关产业的创新及技术突破，社会运营的更有效率。"
+  },
+  "advantage": {
+    "title": "区块链底层算法优势",
+    "content1": "不会分叉，一次确认即实现交易的最终确认，具有优秀的存储特性。",
+    "content2": "不需要挖矿来维持系统的稳定，节约系统资源。",
+    "content3": "出块时间可配置，适用于交易量不同的多种场景。",
+    "content4": "相比传统区块链网络在交易处理速度方面有明显优势。"
+  },
+  "solution": {
+    "title": "Ifoods chain 解决方案",
+    "content1": "为全球的食品及相关领域在生产、流通、消费、检测、追溯等环节上食品安全的保证提供解决方案；",
+    "content2": "为全球食品及相关领域的原料供应商、食品生产商、食品流通商、食品供应链提供商的数据记录、数据保存及应用提供解决方案；",
+    "content3": "为全球食品及相关领域的硬件增值服务商提供硬件应用平台的解决方案；",
+    "content4": "为全球食品及相关领域的食品大数据分析商、人工智能服务商提供数据基础的解决方案；",
+    "content5": "为全球消费者提供完整的食品追溯、检测体系，提供安全、有保证的食品生态环境的解决方案；",
+    "content6": "为全球食品监管机构提供便捷、可信、数据丰富的监管解决方案；"
+  },
+  "superprobe": {
+    "title": "IFoods chain 首个应用-超级探针",
+    "content": "超级探针是基于Ifoods chain平台，用于C端，以高精度传感器为核心器件，为消费者提供即时食品安全检测，解决食品安全最后一公里痛点的智能硬件系统。超级探针具有易携带性、快速性等特点。其将被首先应用于中国的牛肉领域，协助中国消费者在进行高品质牛肉购买时的检测，未来将扩展到牛肉销售环节、打通8000亿全球牛肉采购供应链市场，覆盖区域不仅仅在中国，更面向全球消费者。超极探针将在全球范围内同步发售，普惠全球注重食品品质的用户。"
+  },
+  "teamTitle":"团队介绍",
+  "teamers": [
+    {
+    "name": "卡隆（创始人）",
+    "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184707.png",
+    "data": "区块链+农业实验室发起人； 中国食品安全溯源中心执行主任； 北京市教育后勤采购平台阳光彩虹食品安全顾问； 区块链专业推广机构融合传媒董事长； 曾任根源链创始人及执行董事； 13 年金融营销公关经验、7 年农业及金融成功创业经历。",
+    "overview": "区块链+农业实验室发起人；区块链专业推广机构融合传媒董事长；曾任根源链执行董事；",
+    "name_english": "Kallon（Founders）",
+    "data_english": "Sponsor of Blockchain + Agricultural Laboratory; Executive Director of China Center for Food Safety Traceability; Food safety consultant of Sunshine Rainbow, a logistics procurement platform for education in Beijing; Chairman of Media Integration, a professional promotion agency for blockchain;  Former founder and executive director of Source Blockchain; "
+    },
+    {
+      "name": "范志凯（创始人）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184719.png",
+      "data": "北京航空航天大学仪器科学与光电工程硕士。深入研究全球前言纳米光栅传感器。策划、运营过多个互联网项目，曾负责中国食药监管理平台的研发。2013年接触区块链，深刻了解区块链运营原理，熟悉数字产品网上交易的运营及策划。",
+      "overview": "北航仪器科学与光电工程硕士。深入研究纳米光栅传感器，并获得多项专利，曾从事于高精密传感器研究",
+      "name_english": "Steven van（Founders）",
+      "data_english": "He got master’s degree in Instrumentation Science and Opto-electronics Engineering from Beihang University. He has an in-depth study of the world's leading nano-grating sensor. He has the experience of planning and operating several Internet projects and was responsible for research and development on the platform of China Food and Drug Administration. In 2013, he began to learn blockchain. He has a deep understanding of the operating principles of blockchain and online trading operations and planning of digital products."
+    },
+    {
+      "name": "林汝吉（联合创始人）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184730.png",
+      "data": "美国乔治亚大学食品学博士，曾任美国康尼格拉集团基础科学资深经理，技术总监及并购成员，美国国家食品安全及技术中心顾问，中国肉类研究所荣誉所长，美国纽利味食品集团中国区总裁，加福得食品（北京）有限公司董事长。拥有全球数项食品科技的专利，对食品研发、生产、追溯，技术优化及人工智能的应用有极深入的研究。",
+      "overview": "美国乔治亚大学食品学博士、美国国家食品安全顾问、中国肉类研究所荣誉所长、加福得食品（北京有限公司）董事长。曾任美国纽利味食品集团中国区总裁",
+      "name_english": "Roo Jee Lin（Co-Founders）",
+      "data_english": "Doctor of Food Science from University of Georgia, USA. Former senior manager of basic science, technical director and M&A personnel of ConAgra Foods, consultant of the US National Center for Food Safety and Technology, honorary director of China Meat Research Institute, president of Newly Weds Foods (USA) in China and chairman of CAFT Foods, Inc. He has several patents on food science and technology in the world. In addition, he has an in-depth research on food research and development, production, tracing, optimization of technology and application of artificial intelligence."
+    },
+    {
+      "name": "潘海祥（顾问）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180306142053.png",
+      "data": "耳朵财经创始人",
+      "overview": "耳朵财经创始人",
+      "name_english": "Haixiang Pan（Adviser）",
+      "data_english": "The founder of ear finance."
+    },
+    {
+      "name": "李彦博（顾问）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184739.png",
+      "data": "区块链技术专家，Onchain联合创始人， Linux Kernel 网络层核心代码贡献者，于斯坦福大学学习密码学，多年在美国高通工作经验，专长于分布式系统架构设计， 网络协议实现。开源区块链平台DNA核心研发和设计者。",
+      "overview": "区块链技术专家，Onchain联合创始人， Linux Kernel 网络层核心代码贡献者，于斯坦福大学学习密码学，",
+      "name_english": "Yanbo Li（Adviser）",
+      "data_english": "Expert in blockchain, co-founder of Onchain and Linux Kernel network subsystem code contributor. He studied in Standford and has years of working experience in Qualcomm. He specializes in architecture design of distributed network system and implementation of Mesh network protocol. He is currently in charge of management of Onchain Beijing office and development of an open source blockchain platform--Distributed Network Architecture. "
+    },
+    {
+      "name": "李一灵（顾问）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184748.png",
+      "data": "前小蚁（Neo）海外经理。负责16年小蚁的全球代币众售及其后的社区建设、商业合作、生态建设等；FourierPR 联合创始人，中国顶尖的加密经济项目PR 与咨询企业，Fourierde 客户；主宰了coinmarketcap前一百的列表；与FBG合作；垒石科技创始人，媒体网站inwecrypto.com，多资钱包InWeWallet及Trinity网络两个生态企业。",
+      "overview": "前小蚁(Neo)海外经理。负责16 年小蚁的全球代币众售及其后续的社区建设、商业合作、生态建设等；",
+      "name_english": "David（Adviser）",
+      "data_english": "Former Antshares (Neo) Overseas Manager. He led the Antshares global tokensale campaign in 2016, and her follow-up community building, business cooperation, ecosystem building, etc. Co-founder of FourierPR, China’s top marketing and consultancy firm for crypto-economy projects. Fourier’s clients dominate coinmarketcap top 100 list; in association with FBG."
+    },
+    {
+      "name": "柴巍中（顾问）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184759.png",
+      "data": "营养学博士（后），北京大学公共卫生学院教授，研究生导师，主要从事食品卫生学的科研和教学工作。曾参与撰写出版的专著有：《欧洲食品安全体系》、《中国营养产业发展报告》、《公众营养与社会经济发展》等。在国际专业会议和期刊上发表数十篇专业文章",
+      "overview": "营养学博士（后），北京大学公共卫生学院教授，研究生导师，主要从事食品卫生学的科研和教学工作。曾参与撰写出版的专著有：《欧洲食品安全体系》、《中国营养产业发展报告》、《公众营养与社会经济发展》等。",
+      "name_english": "Weizhong Chai(Adviser)",
+      "data_english": "Postdoc of nutrition, professor and tutor at Peking University School of Public Health. He is mainly engaged in research and teaching of food hygiene. He wrote and published several works, including European Food Safety System, China Nutrition Industry Report and Public Nutrition and Socio-economic Development. He published dozens of articles in international professional conferences and journals. "
+    },
+    {
+      "name": "易锋平（顾问）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184809.png",
+      "data": "Trinity Co-founder&Trinity 联合创始人。区块链行业政府事务专 家，具有丰富的政府从业背景和资深的区块链项目渠道拓展经验。 2015 年底进入以太坊爱好者社区，一直负责区块链应用和技术在社 会及政府领域的拓展。拥有政府商务工作背景。先后任上海分布信息 科技公司政府事务总监和同济金融科技区块链研究院副院长，参与工 信部区块链参考架构和政府相关区块链政策的编写工作，主持贵阳市 政府在国内第一个诚信农民项目在当地的合作和落地。",
+      "overview": "Trinity Co-founder&Trinity 联合创始人。区块链行业政府事务专家，具有丰富的政府从业背景和资深的区块链项目渠道拓展经验，一直负责区块链应用和技术在社会及政府领域的拓展。",
+      "name_english": "Fengping Yi（Adviser）",
+      "data_english": "Co-founder of Trinity Co-founder&Trinity. Government Affairs Specialist on Blockchain, rich experience in public sector and blockchain business development. Joined China Ethereum community in 2015 and had been working on blockchain industry’s affairs with the Government. Former government official responsible for business development. Former Director of Government Affairs at Shanghai Onchain Technologies Ltd. Former Vice Director of Tongji University Fintech and Blockchain Research Institute. Responsible for helping the company join the MIIT blockchain reference architecture building and policy-making. Participation in Guiyang municipal government’s Credit Farmer project, which is seen as the very first government-sponsored blockchain application nationwide."
+    },
+    {
+      "name": "仲维科（顾问）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184821.png",
+      "data": "中国检验检疫科学研究院南方检测中心主任，研究员。2000 年毕业于中国科学院生态 环境研究中心，长期从事食品和环境样品中化学污染物残留检测和科研工作。主持国 家自然科学基金 3 项，科技部课题 3 项。制定国标和行标 5 项。在国内外核心期刊发 表论文 40 余篇。擅长食品中二恶英、农兽药残留分析。",
+      "overview": "中国检验检疫科学研究院南方检测中心主任，博士、研究员。长期从事食品和环境样品中化学污染物残留检测和科研工作。主持国家自然科学基金3项，科技部课题3项。",
+      "name_english": "Weike Zhong（Adviser）",
+      "data_english": "Director and researcher of South Testing Center of Chinese Academy of Inspection and Quarantine. In 2000, he graduated from the Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences. He has been engaged in testing and scientific research of chemistry residue in food and environmental samples. He presided over 3 programs of National Natural Science Fund and 3 projects under the Ministry of Science and Technology. He developed 5 national and industrial standards and published over 40 papers in key journals at home and abroad. He is expert in analysis of food dioxin and pesticide residue."
+    },
+    {
+      "name": "冯丽爽（顾问）",
+      "pic": "https:\/\/lbcydemo.oss-cn-hangzhou.aliyuncs.com\/20180130184831.png",
+      "data": "北京航空航天大学研究员、博士生导师、微纳测控中心副主任、 获国家“863”先进 集体和个人表彰,专注于 MEMS 传感器研究、获省部级技术发明将 1 项、技术进步奖 2 项、获中国发明专利 18 项。在国内外期刊和会议上发表学术论文 100 余篇，其中 SCI 收录 20 多篇。",
+      "overview": "北京航空航天大学研究员、博士生导师、微纳测控中心副主任、 获国家“863”先进集体和个人表彰,专注于MEMS传感器研究、获省部级技术发明将1项、技术进步奖2项",
+      "name_english": "Lishuang Feng(Adviser)",
+      "data_english": "Researcher and doctoral tutor of Beihang University and deputy director of micro-nano measurement and control center. She won the “863” Advanced Collective and individual recognition. She has been specialized in MEMS sensor research and got 1 provincial award for technology invention, 2 awards for technology progress and 18 invention patents in China. She has published over 100 academic papers in journals and conferences at home and abroad, including over 20 articles included in SCI"
+    }
+  ],
+  "address": {
+    "address": "公司地址：",
+    "addressDetail": "北京市朝阳区康家沟145号锦裕写字楼",
+    "qq": "官方QQ群：",
+    "wx": "Mob(微信)：",
+    "wxDetail": "17710158825 (韩女士)",
+    "mail": "E-mail：",
+    "about": "开放开源的食品区块链生态平台"
+  },
+  "news":"新闻动态",
+  "partner":"合作伙伴",
+  "activity":{
+    "btnText":"进入活动"
+  },
+  "whitebookUpdateModal":"ifoodschain白皮书正在更新中...."
+}
