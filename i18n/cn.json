@@ -26,27 +26,27 @@
   },
   "vision": {
     "leftTitle": "Ifoods chain 愿景",
-    "leftContent": "我们希望利用区块链及衍生的技术来促进食品的供应、增强食品的安全、保障消费者的知情权、提升食品行业的生产力。",
+    "leftContent": "我们希望利用区块链及衍生的技术来促进食品的供应、增强食品的安全、保障消费者的知情权、提升食品行业的生产力",
     "centerTitle": "Ifoods chain 全球使命",
-    "centerContent": "在全球范围内构建完善的食品生态环境。",
+    "centerContent": "在全球范围内构建完善的食品生态环境",
     "rightTitle": "Ifoods chain 价值观",
-    "rightContent": "我们认为区块链不可篡改数据的记录数据方式，会推动人类文明的进步，食品及其他相关产业的创新及技术突破，社会运营的更有效率。"
+    "rightContent": "我们认为区块链不可篡改数据的记录数据方式，会推动人类文明的进步，食品及其他相关产业的创新及技术突破，社会运营的更有效率"
   },
   "advantage": {
     "title": "区块链底层算法优势",
-    "content1": "不会分叉，一次确认即实现交易的最终确认，具有优秀的存储特性。",
-    "content2": "不需要挖矿来维持系统的稳定，节约系统资源。",
-    "content3": "出块时间可配置，适用于交易量不同的多种场景。",
-    "content4": "相比传统区块链网络在交易处理速度方面有明显优势。"
+    "content1": "不会分叉，一次确认即实现交易的最终确认，具有优秀的存储特性",
+    "content2": "不需要挖矿来维持系统的稳定，节约系统资源",
+    "content3": "出块时间可配置，适用于交易量不同的多种场景",
+    "content4": "相比传统区块链网络在交易处理速度方面有明显优势"
   },
   "solution": {
     "title": "Ifoods chain 解决方案",
-    "content1": "为全球的食品及相关领域在生产、流通、消费、检测、追溯等环节上食品安全的保证提供解决方案；",
-    "content2": "为全球食品及相关领域的原料供应商、食品生产商、食品流通商、食品供应链提供商的数据记录、数据保存及应用提供解决方案；",
-    "content3": "为全球食品及相关领域的硬件增值服务商提供硬件应用平台的解决方案；",
-    "content4": "为全球食品及相关领域的食品大数据分析商、人工智能服务商提供数据基础的解决方案；",
-    "content5": "为全球消费者提供完整的食品追溯、检测体系，提供安全、有保证的食品生态环境的解决方案；",
-    "content6": "为全球食品监管机构提供便捷、可信、数据丰富的监管解决方案；"
+    "content1": "为全球的食品及相关领域在生产、流通、消费、检测、追溯等环节上食品安全的保证提供解决方案",
+    "content2": "为全球食品及相关领域的原料供应商、食品生产商、食品流通商、食品供应链提供商的数据记录、数据保存及应用提供解决方案",
+    "content3": "为全球食品及相关领域的硬件增值服务商提供硬件应用平台的解决方案",
+    "content4": "为全球食品及相关领域的食品大数据分析商、人工智能服务商提供数据基础的解决方案",
+    "content5": "为全球消费者提供完整的食品追溯、检测体系，提供安全、有保证的食品生态环境的解决方案",
+    "content6": "为全球食品监管机构提供便捷、可信、数据丰富的监管解决方案"
   },
   "superprobe": {
     "title": "IFoods chain 首个应用-超级探针",
@@ -60,7 +60,7 @@
     "data": "区块链+农业实验室发起人； 中国食品安全溯源中心执行主任； 北京市教育后勤采购平台阳光彩虹食品安全顾问； 区块链专业推广机构融合传媒董事长； 曾任根源链创始人及执行董事； 13 年金融营销公关经验、7 年农业及金融成功创业经历。",
     "overview": "区块链+农业实验室发起人；区块链专业推广机构融合传媒董事长；曾任根源链执行董事；",
     "name_english": "Kallon（Founders）",
-    "data_english": "Sponsor of Blockchain + Agricultural Laboratory; Executive Director of China Center for Food Safety Traceability; Food safety consultant of Sunshine Rainbow, a logistics procurement platform for education in Beijing; Chairman of Media Integration, a professional promotion agency for blockchain;  Former founder and executive director of Source Blockchain; "
+    "data_english": "Sponsor of Blockchain + Agricultural Laboratory; Executive Director of China Center for Food Safety Traceability; Food safety consultant of Sunshine Rainbow, a logistics procurement platform for education in Beijing; Chairman of Media Integration, a professional promotion agency for blockchain;  Former founder and executive director of Source Blockchain"
     },
     {
       "name": "范志凯（创始人）",

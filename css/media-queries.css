@@ -154,6 +154,9 @@
     .noAccessBox{font-size: 16px!important;}
 
     .navbar-toggle {margin-top: 8px;margin-bottom: 8px;}
+
+	.superProbe-container .section-heading{font-size: 20px}
+	.superProbe-container p.lead{font-size: 14px}
 }
 
 @media  (max-width: 375px){
@@ -190,7 +193,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	/* logo */
     .navbar-brand {
-    	background-image: url(../ico/logo_top.png) !important; background-repeat: no-repeat !important; background-size: 56px 36px !important;
+    	background-image: url("../ico/logo_top.png") !important; background-repeat: no-repeat !important; background-size: 56px 36px !important;
     }
 
 }

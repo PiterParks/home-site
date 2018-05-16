@@ -172,7 +172,7 @@ ul.navbar-nav {
 .navbar-brand {
 	width: 114px;
 	height: 60px;
-	background: url(../ico/logo_top.png) left center no-repeat;
+	background: url("../ico/logo_top.png") left center no-repeat;
 	background-size: auto 80%;
 	text-indent: -99999px;
 }
@@ -582,7 +582,7 @@ img{
 	margin: 20px 0;
 }
 .ourTeamBox .swiper-slide  p{
-	display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 4;overflow: hidden;height: 120px;
+	height: 120px;
 }
 .swiper-pagination-bullet {
 	width: 14px;
@@ -1008,3 +1008,4 @@ body.showDisclaimer{
 }
 
 .navbar-inverse .navbar-toggle{border-radius: 0!important;}
+.navbar-inverse .navbar-toggle.collapsed{background-color: transparent!important;}
