@@ -22,7 +22,8 @@
     "field": "食品全领域",
     "industry": "食品全行业",
     "area": "食品全区域",
-    "linkBtn":"查看白皮书"
+    "linkBtn":"查看白皮书",
+    "whitePaperModalBtn":"确定"
   },
   "vision": {
     "leftTitle": "Ifoods chain 愿景",

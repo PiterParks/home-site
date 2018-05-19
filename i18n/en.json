@@ -22,7 +22,8 @@
     "field": "The whole food field",
     "industry": "The whole food industry",
     "area": "The whole area",
-    "linkBtn":"White Paper"
+    "linkBtn":"White Paper",
+    "whitePaperModalBtn":"OK"
   },
   "vision": {
     "leftTitle": "Ifoods chain vision",
