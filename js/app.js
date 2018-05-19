@@ -149,7 +149,7 @@ app.controller("myControlller",function ($scope, $translate,$http) {
     }).then(function successCallback(response) {
         // 请求成功执行代码
 
-        /*$scope.cnWhiteBook = response.data.cUrl;*/
+        $scope.cnWhiteBook = response.data.cUrl;
         /*$scope.enWhiteBook = response.data.eUrl;*/
     }, function errorCallback(response) {
         // 请求失败执行代码
