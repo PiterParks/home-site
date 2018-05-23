@@ -150,7 +150,7 @@ app.controller("myControlller",function ($scope, $translate,$http) {
         // 请求成功执行代码
 
         $scope.cnWhiteBook = response.data.cUrl;
-        /*$scope.enWhiteBook = response.data.eUrl;*/
+        $scope.enWhiteBook = response.data.eUrl;
     }, function errorCallback(response) {
         // 请求失败执行代码
         console.log("白皮书请求失败");
