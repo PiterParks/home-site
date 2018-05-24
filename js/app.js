@@ -27,13 +27,17 @@ app.controller("myControlller",function ($scope, $translate,$http) {
         // console.log("ip端口请求成功")
         var country = JSON.parse(response.data);
         $scope.country = country.country_id;
+        if($scope.country == "cn"){
+            window.location.href = 'html/noAccess.html';
+        }
         if($scope.country != "cn"){
+            $(".loader").fadeOut("fast");
             $scope.langSelectIndex = 1;
             $translate.use($scope.langs[$scope.langSelectIndex].lang);
-            window.localStorage.setItem("lang",$scope.langs[$scope.langSelectIndex].lang);
             $(".disclaimerContianer").show();
-            $("body").addClass("showDisclaimer");
             disclaimerLeftSec();
+            $("body").addClass("showDisclaimer");
+            window.localStorage.setItem("lang",$scope.langs[$scope.langSelectIndex].lang);
         }
 
     }, function errorCallback(response) {

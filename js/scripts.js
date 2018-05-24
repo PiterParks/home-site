@@ -36,7 +36,7 @@ jQuery(document).ready(function() {
     loadImg.src = 'img/backgrounds/newbannerBg2.jpg';
     loadImg.onload = function(){
         // 加载完成
-        $(".loader").fadeOut("fast");
+        /*$(".loader").fadeOut("fast");*/
     }
 
     $('.solution-container').backstretch("img/backgrounds/pork.jpg");
