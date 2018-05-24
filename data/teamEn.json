@@ -1,0 +1,101 @@
+[{
+		"founder": [{
+				"name": "卡隆",
+				"position": "创始人&基金会理事长",
+				"img": "./img/team/kalong.png",
+				"des": "13 年的金融营销公关经验、 7 年农业及金融成功创业经历；2015年进入区块链，区块链资深从业者；原根源链创始人及执行董事；2016 年中国区块链产业大会总策划，区块链+农业分论坛主持人；2018 年中国金融科技创新奖评委区块链+农业实验室发起人；区块链专业推广机构融合传媒董事长；以第一发明人身份拥有多项区块链相关发明专利及软件著作权；中国食品安全中心执行主任；北京市教育后勤采购平台阳光彩虹食品安全顾问。"
+			},
+			{
+				"name": "范志凯",
+				"position": "创始人&CEO",
+				"img": "./img/team/kalong.png",
+				"des": "北京航空航天大学仪器科学与光电工程硕士；2013 年接触区块链，深刻了解区块链运营原理、熟悉数字产品网上交易的运营及策划；深入研究全球前沿纳米光栅传感器及智能硬件；策划、运营过多个互联网项目；曾负责国家食药监总局信息化管理平台项目。"
+			},
+			{
+				"name": "Lin RooJee （美国）",
+				"position": "创始人&首席科学家",
+				"img": "./img/team/kalong.png",
+				"des": "美国乔治亚大学食品学博士；曾任美国康尼格拉集团基础科学资深经理，技术总监及并购成员；美国国家食品安全及技术中心顾问；中国肉类研究所荣誉所长；美国纽利味食品集团中国区总裁；加福得食品(北京)有限公司董事长；拥有全球数项食品科技的专利；对食品研发、生产、检测，技术优化及人工智能的应用有极深入研究。"
+			}
+
+		]
+
+	},
+	{
+		"core": [{
+				"name": "Liu Yuan ",
+				"img": "./img/team/liuyuan.png",
+				"position": "CTO",
+				"des": "A believer and early preacher of the block chain industry, proficient in the principle of P2P network, consensus algorithm, asymmetric encryption, block chain data structure, smart contract and so on, and have a comprehensive study on representative public chains such as BTC, ETH, NEO, EOS and so on. Deep application scenes of the public chain, the alliance chain and the private chain. Carried out the block chaininfrastructure solution design and landing for many industries, multiple applications, such as Trinity based on NEO, ETH based color system, and block chain solution for power industry.11 years of experience in the R & D of Internet infrastructure products, once served in China Telecom, NOKIA, HUAWEI and so on, several core exchange products, wireless communication base stations and controller products, and KVM virtualized cloud computing products have created the era of 100GE core exchange, mobile Internet era and cloud computing era. Firmly believe that with the development of block chain industry, we will enter a new era of revolutionary value transmission."
+			},
+			{
+				"name": "Sun Zhiwei ",
+				"img": "./img/team/sunzhiwei.png",
+				"position": "COO",
+				"des": "MBA of Beijing Institute of Technology;In 2015, contacted block chain, provided the design of operation consultation for multiple block chain projects, including project team building, media promotion, community construction and operation, currency value management and so on.Worked in China North car group, Beijing automobile group, famousmanagement consulting organization and Investment Company.Provided strategic planning, investment and financing and business model design for A listed companies."
+			},
+			{
+				"name": "Jesus Garia(Spain) ",
+				"img": "./img/team/jesus.png",
+				"position": "Global strategy officer",
+				"des": "The founder of the Spanish GTS investment company; The founder of the Arroyo chain restaurant & President; DEIMOS technology company strategic advisor;Spanish meat processing plant investment advisor;"
+			},
+			{
+				"name": "Zhong Weiguo",
+				"position": "CMO",
+				"img": "./img/team/zhongweiguo.png",
+				"des": "Former root chain co founder and chief market officer;10 years of experience in the dissemination and promotion of the financial industry;4 years experience in block chain industry marketing, familiar with the related operation of block chain industry intellectual property;Connecting with the chain related investors of block 100 block, maintaining deep communication with block chain media and community."
+			},
+			{
+				"name": "Feng Lishuang",
+				"img": "./img/team/fenglishuang.png",
+				"position": "Chief hardware scientist",
+				"des": "Beijing University of Aeronautics and Astronautics, doctoral supervisor, deputy director of micro and nano measurement and control center;Won the national '863 ' advanced collective and individual commendation;Focus on MEMS sensor research;It has won 1 provincial and ministerial level technological invention awards, 2 technological progress awards and 18 Chinese invention patents.More than 100 academic papers have been published in journals and conferences at home and abroad, including more than 20 in SCI."
+			}
+		]
+
+	},
+	{
+		"adviser": [{
+				"name": "Li Yanbo",
+				"img": "./img/team/liyanbo.png",
+				"position": "block chain technological consultant",
+				"des": "Block chain technical expert, On-chain co-founder;NKN founder;Linux Kernel network layer core code contributor;At Stanford University, he studied cryptography and worked in Qualcomm for many years. He specializes in distributed systemarchitecture design and network protocol implementation;DNA core R & D and designer of open source block chain platform."
+			},
+			{
+				"name": "David(Li Yiling)",
+				"img": "./img/team/david.png",
+				"position": "block chain operation consultant",
+				"des": "Trinity founder;FourierPR co-founder;China's top encryption economic project PR and consulting company, Fourier's customers;List the top one hundred of coin market cap and cooperate with FBG. Founder of base stone technology;Media website inwecrypto.com, multi asset wallet InWeWallet founder."
+			},
+			{
+				"name": "Yi Fengping",
+				"img": "./img/team/yifengping.png",
+				"position": "block chain municipal affair consultant",
+				"des": "Trinity co-founder;The district chain industry expert of government affairs, with rich government background and senior block chain project channel development experience; at the end of 2015, entering the Tai Fang fan community, has been responsible for the expansion of the applicationand technology of the block chain in the social and government fields; once served as the director of government affairs and Tongji of Shanghai distribution information technology company. Vice Dean of the Research Institute of thawing science and technology block chain;To participate in the compilation of the Ministry of industry's block chain reference framework and government related block chain policies.Presided over the cooperation and landing of the Guiyang municipal government's first honest peasant project in China."
+			},
+			{
+				"name": "Bieito(Spain) ",
+				"img": "./img/team/Bieito.png",
+				"position": "global strategy consultant",
+				"des": "President of Spain's largest ABC newspaper group. Adviser to the Spanish government affairs."
+			},
+			{
+				"name": "Chai Weizhong",
+				"img": "./img/team/chaiweizhong.png",
+				"position": "food safety consultant",
+				"des": "Ph.D. in nutrition (after), Professor, college of public health, Peking University.Engaged in research and teaching of food hygiene;The European food safety system, the development report of China's nutrition industry, public nutrition and social and economic development,etc., and dozens of professional articles in international professional conferences and periodicals."
+			},
+			{
+				"name": "Zhong Weike",
+				"img": "./img/team/zhongweike.png",
+				"position": "food testing technology consultant",
+				"des": "Director and researcher, South inspection center, China Academy of inspection and quarantine.In 2000, he graduated from the ecological environment research center of the Chinese Academy of Sciences. It has been engaged in the detection and research work of chemical contaminants in food andenvironmental samples for a long time; 3 National Natural Science Foundation and 3 projects by the Ministry of science and technology. 5 national standards and bank standards were formulated, and more than 40 papers were published in core journals both at home and abroad. Good at dioxin and pesticide residues analysis in food."
+			}
+
+
+		]
+
+	}
+
+]
