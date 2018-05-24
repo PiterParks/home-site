@@ -97,7 +97,7 @@
                         <h3>Make global food test shared eco</h3>
                         <h1>IFOODS CHAIN</h1>
                         <p>Ifoods chain public chain is developed basing on block chain technology, smart contract, DAI, smart devices and other technologies. Ifoods chain provides consumers with the means to quickly detect food safety and quality data, protect the rights and interests of food testing experts, and promote the development of food safety.</p >
-                        <a href="data/whitepaper_20180522_en.pdf"  target="_blank" class="btn btn-default btn-sm-outline" role="button">White Paper</a>
+                        <a href="https://ifoodschain-home-static.oss-ap-northeast-1.aliyuncs.com/whitepaper/whitepaper_20180524_en.pdf"  target="_blank" class="btn btn-default btn-sm-outline" role="button">White Paper</a>
                     </div>
                 </div>
             </div>
@@ -1285,14 +1285,15 @@ dioxin and pesticide residues analysis in food.
             $.ajax({
               url:'https://www.ifoodschain.com/officialWebsite/getcountryid',
                 type:'get',
-                xhrFields:{
-                    withCredentials:  true
-                },
-                crossDomain:  true,
+                // xhrFields:{
+                //     withCredentials:  true
+                // },
+                // crossDomain:  true,
                 dataType:'json',
                 success:function(res){
                    if(res){
-                    if(res.country_id != 'cn'){
+	                   res=JSON.parse(res)
+                    if(res.country_id == 'cn'){
                         window.location.href = 'noAccess.html'
                     }
                    }
